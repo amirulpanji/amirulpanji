@@ -1,12 +1,10 @@
 # 👋 Hi, I'm Amirul
 
+``
+Newbie, Enjoys exploring new things.
+``
+
 *"That Appears... Untrue"* — **God Emperor Doom, Secret Wars #8**
-
-## 🧑‍💻 About Me
-
-- 🚀 Passionate about building web apps and exploring new technologies.
-- 💡 Always improving my skills in problem-solving and clean code.
-- 💬 Open to collaborate on web and mobile development projects.
 
 ## 🛠 Tech Stack
 
