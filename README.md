@@ -22,10 +22,5 @@ Newbie, Enjoys exploring new things.
 ![Laragon](https://img.shields.io/badge/LARAGON-0E83CD?style=for-the-badge&logo=laragon&logoColor=white)
 ![Figma](https://img.shields.io/badge/FIGMA-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-## 📊 GitHub Streak
+[**🐟 Modal Ternak Lele**](https://saweria.co/AmirulPanjiGanteng)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amirulpanji&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-✨ Thanks for visiting my profile!
