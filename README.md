@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Amirul
+# 👋 Hi, I'm Amir
 
 ``
 Newbie, Enjoys exploring new things.
@@ -25,7 +25,7 @@ Newbie, Enjoys exploring new things.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=amirulpanji&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 ✨ Thanks for visiting my profile!
