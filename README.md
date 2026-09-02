@@ -4,8 +4,6 @@
 Newbie, Enjoys exploring new things.
 ``
 
-*"That Appears... Untrue"* — **God Emperor Doom, Secret Wars #8**
-
 ## 🛠 Tech Stack
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
